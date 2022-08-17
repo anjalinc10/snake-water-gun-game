@@ -32,5 +32,5 @@ if a==None:
 elif a==True:
     print("Congratulations, you win!")
 elif a==False:
-    print("You Lose, try again! 'good luck'")
+    print("You Have Lost, try again! 'good luck'")
 
